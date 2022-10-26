@@ -1,21 +1,21 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi рџ‘‹, I'm Alisher Umetaliev</h1>
+
+
+<h1 align="center">Hi 👋, I'm Alisher Umetaliev</h1>
 <h3 align="center">A passionate Dart/Flutter developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisherum&label=Profile%20views&color=0e75b6&style=flat" alt="alisherum" /> </p>
 
-- рџ”­ IвЂ™m currently working on **FoodArea**
+- 🔭 I’m currently working on **FoodArea**
 
-- рџЊ± IвЂ™m currently learning **Dart/Flutter Architecture basics**
+- 🌱 I’m currently learning **Dart/Flutter Architecture basics**
 
-- рџ¤ќ IвЂ™m looking for help with **Frontend Flutter Development**
+- 🤝 I’m looking for help with **Frontend Flutter Development**
 
-- рџ’¬ Ask me about **Flutter Widgets,Tools and etc.**
+- 💬 Ask me about **Flutter Widgets,Tools and etc.**
 
-- рџ“« How to reach me **alisher_study@vk.com**
+- 📫 How to reach me **alisher_study@vk.com**
 
-- вљЎ Fun fact **IвЂ™m a regular member of the Р’ebate club and the Рњolunteer club.**
+- ⚡ Fun fact **I’m a regular member of the Вebate club and the Мolunteer club.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisherum&show_icons=true&locale=en&layout=compact" alt="alisherum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisherum&show_icons=true&locale=en" alt="alisherum" /></p>
+
