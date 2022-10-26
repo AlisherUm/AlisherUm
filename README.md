@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **alisher_study@vk.com**
 
-- ⚡ Fun fact **I’m a regular member of the Вebate club and the Мolunteer club.**
+- ⚡ Fun fact **I’m a regular member of the Debate club and the Volunteer club.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
