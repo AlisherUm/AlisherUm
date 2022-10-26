@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alisher Umetaliev</h1>
 <h3 align="center">A passionate Dart/Flutter developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisherum&label=Profile%20views&color=0e75b6&style=flat" alt="alisherum" /> </p>
+<p align="left"> <img src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" /> </p>
 
 - 🔭 I’m currently working on **FoodArea**
 
